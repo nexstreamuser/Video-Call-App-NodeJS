@@ -1,6 +1,4 @@
-# Conference Call
-A conference call implementation using WebRTC, Socket.io and Node.js. This demo is ideal for not more than 4 devices.
-
+./ngrok authtoken 21SBMEAiADc5J8GxnxAc0jRjuRP_29FmZmi5a4EWVtrncDZya
 
 # Getting Started
 - Run `npm ci`
