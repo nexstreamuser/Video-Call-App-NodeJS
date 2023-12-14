@@ -114,8 +114,8 @@ export default {
                     urls: ["stun:eu-turn4.xirsys.com"]
                 },
                 {
-                    username: "ml0jh0qMKZKd9P_9C0UIBY2G0nSQMCFBUXGlk6IXDJf8G2uiCymg9WwbEJTMwVeiAAAAAF2__hNSaW5vbGVl",
-                    credential: "4dd454a6-feee-11e9-b185-6adcafebbb45",
+                    username: "atJGFwTZPGL2h_FbcwOVK_rtiU2wRCWsdBvEwhKHlOmzilskjQSfhiSF6GM3lmDWAAAAAGV6gk9Nb2hpdDA5NTM=",
+                    credential: "f85f8484-9a37-11ee-92ea-0242ac140004",
                     urls: [
                         "turn:eu-turn4.xirsys.com:80?transport=udp",
                         "turn:eu-turn4.xirsys.com:3478?transport=tcp"
